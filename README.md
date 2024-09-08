@@ -1,6 +1,6 @@
 # Plant Disease Detection YOLOv8n --- Gradio Project
 
-I have downloaded the dataset for model training from Roboflow Biodome. The model was trained using Ultralytics YOLOv8 for 50 epochs. I have uploaded all validation results, including a Jupyter Notebook file, to my GitHub repository. Additionally, I have developed a Gradio interface for the model and deployed it on Hugging Face Spaces.
+I have downloaded the dataset for model training from [Roboflow Biodome](https://universe.roboflow.com/montclair/biodome). The model was trained using Ultralytics YOLOv8 for 50 epochs. I have uploaded all validation results, including a Jupyter Notebook file, to my GitHub repository. Additionally, I have developed a Gradio interface for the model and deployed it on Hugging Face Spaces.
 
 Here are the details of the dataset:
 
