@@ -12,9 +12,8 @@ Number of images in each folder:
 You can access the resources here:
 
 GitHub Repository: [Plant Disease Detection YOLOv8n
-](https://huggingface.co/spaces/Mubashir-Hussain/Plant-Disease-Detection-YOLOv8n)
-Explore the interactive demo and test the model online.
-
+](https://github.com/GithubSpy/Plant_Disease_Detection_YOLOv8n)
+Access the code, datasets, and detailed documentation here.
 
 Hugging Face Space: [Plant Disease Detection YOLOv8n
 ](https://huggingface.co/spaces/Mubashir-Hussain/Plant-Disease-Detection-YOLOv8n)
