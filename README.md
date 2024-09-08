@@ -10,6 +10,5 @@ Test: 6,375
 Validation: 6,614
 You can access the resources here:
 
-GitHub repository: Plant Disease Detection YOLOv8n
 Hugging Face Space: [Plant Disease Detection YOLOv8n
 ](https://huggingface.co/spaces/Mubashir-Hussain/Plant-Disease-Detection-YOLOv8n)
