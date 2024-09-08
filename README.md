@@ -5,10 +5,18 @@ I have downloaded the dataset for model training from [Roboflow Biodome](https:/
 Here are the details of the dataset:
 
 Number of images in each folder:
-Train: 53,209
-Test: 6,375
-Validation: 6,614
+  Train: 53,209
+  Test: 6,375
+  Validation: 6,614
+
 You can access the resources here:
+
+GitHub Repository: [Plant Disease Detection YOLOv8n
+](https://huggingface.co/spaces/Mubashir-Hussain/Plant-Disease-Detection-YOLOv8n)
+Explore the interactive demo and test the model online.
+
 
 Hugging Face Space: [Plant Disease Detection YOLOv8n
 ](https://huggingface.co/spaces/Mubashir-Hussain/Plant-Disease-Detection-YOLOv8n)
+Explore the interactive demo and test the model online.
+
