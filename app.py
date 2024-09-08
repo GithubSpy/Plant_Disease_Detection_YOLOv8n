@@ -15,9 +15,16 @@ Original file is located at
 from ultralytics import YOLO
 import gradio as gr
 import cv2
+import os
 
-model = YOLO('/content/best.pt')
+model_path = 'best.pt'
 
+if os.path.isfile(model_path):
+    print(f"Loading model from {model_path}")
+else:
+    print(f"Model file {model_path} not found")
+
+model = YOLO(model_path)
 def predict(image):
     # Check if the input image is None (i.e., no image was uploaded)
     if image is None:
